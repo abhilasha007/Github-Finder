@@ -6,6 +6,7 @@ export const About = () => {
             <h1>About this App</h1>
             <p>App to search Github Users</p>
             <p>Version: 1.0.0</p>
+            <a href="https://github.com/abhilasha007/Github-Finder" target="_blank"> Source Code </a>
         </Fragment>
     )
 }
